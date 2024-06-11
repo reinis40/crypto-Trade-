@@ -1,0 +1,9 @@
+{
+    "require": {
+        "nesbot/carbon": "^3.5",
+        "symfony/console": "^7.1",
+      "ext-json": "*",
+      "ext-curl": "*",
+      "ext-readline": "*"
+    }
+}
